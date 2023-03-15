@@ -346,6 +346,45 @@
       "q" : 90,
       "rq" : 75
     },
+    "\/_site\/images\/resume\/feature-sm.jpg" : {
+      "ft" : 16384,
+      "iS" : 526147,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_site\/images\/resume\/feature-sm.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/_site\/images\/resume\/feature.jpg" : {
+      "ft" : 16384,
+      "iS" : 526147,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_site\/images\/resume\/feature.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/_site\/images\/sitemap\/feature.jpg" : {
+      "ft" : 16384,
+      "iS" : 360401,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_site\/images\/sitemap\/feature.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/_site\/images\/talks\/feature-sm.jpg" : {
       "ft" : 16384,
       "iS" : 279108,
@@ -365,6 +404,32 @@
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/_site\/images\/talks\/feature.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/_site\/images\/visual-design\/feature-sm.jpg" : {
+      "ft" : 16384,
+      "iS" : 94156,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_site\/images\/visual-design\/feature-sm.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/_site\/images\/visual-design\/feature.jpg" : {
+      "ft" : 16384,
+      "iS" : 135307,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_site\/images\/visual-design\/feature.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -3476,12 +3541,63 @@
       "oAP" : "\/product-design\/step-counter-app\/index.html",
       "oF" : 0
     },
+    "\/resume\/_content.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/resume\/_content.html",
+      "oF" : 1,
+      "oFM" : 0,
+      "oS" : 1,
+      "pHT" : 1,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
+    },
+    "\/resume\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/resume\/index.html",
+      "oF" : 0
+    },
     "\/resume\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/resume\/index.html",
+      "oF" : 0
+    },
+    "\/sitemap.xml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/sitemap.xml",
+      "oF" : 0
+    },
+    "\/sitemap\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/sitemap\/index.html",
+      "oF" : 0
+    },
+    "\/sitemap\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/sitemap\/index.html",
       "oF" : 0
     },
     "\/talks\/index.html" : {
@@ -4922,7 +5038,7 @@
       "outputFormat" : 0,
       "outputStyle" : 0,
       "parseMetadata" : 1,
-      "processHTML" : 0,
+      "processHTML" : 1,
       "randomFootnoteNumbers" : 0,
       "shouldRunCacheBuster" : 0,
       "useCompatibilityMode" : 0
