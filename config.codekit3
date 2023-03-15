@@ -7,7 +7,7 @@
       "uuidString" : "6AC0C9F3-E377-490E-A110-1895F9BDDD45"
     }
   ],
-  "creatorBuild" : "34434",
+  "creatorBuild" : "34448",
   "files" : {
     "\/_includes\/_file-begin.kit" : {
       "cB" : 0,
@@ -55,6 +55,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/_includes\/_project-goal.html",
+      "oF" : 0
+    },
+    "\/_includes\/_project-hero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/_includes\/_project-hero.html",
       "oF" : 0
     },
     "\/_includes\/_project-key-challenges.kit" : {
@@ -275,6 +283,36 @@
       "oAP" : "\/_site\/favicons\/site.webmanifest",
       "oF" : 0
     },
+    "\/_site\/js\/bootstrap.bundle.min.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/_site\/js\/bootstrap.bundle.min-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
+    "\/_site\/js\/bootstrap.bundle.min.js.map" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/_site\/js\/bootstrap.bundle.min.js.map",
+      "oF" : 0
+    },
+    "\/_site\/js\/fslightbox.js" : {
+      "bF" : 0,
+      "ft" : 64,
+      "ma" : 0,
+      "mi" : 1,
+      "oA" : 0,
+      "oAP" : "\/_site\/js\/fslightbox-min.js",
+      "oF" : 0,
+      "sC" : 3,
+      "tS" : 0
+    },
     "\/_site\/styles\/_custom.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -288,7 +326,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/_texture-bgs.scss" : {
       "aP" : 0,
@@ -303,7 +341,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/_vars.scss" : {
       "aP" : 0,
@@ -318,7 +356,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_accordion.scss" : {
       "aP" : 0,
@@ -333,7 +371,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_alert.scss" : {
       "aP" : 0,
@@ -348,7 +386,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_badge.scss" : {
       "aP" : 0,
@@ -363,7 +401,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_breadcrumb.scss" : {
       "aP" : 0,
@@ -378,7 +416,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_button-group.scss" : {
       "aP" : 0,
@@ -393,7 +431,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_buttons.scss" : {
       "aP" : 0,
@@ -408,7 +446,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_card.scss" : {
       "aP" : 0,
@@ -423,7 +461,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_carousel.scss" : {
       "aP" : 0,
@@ -438,7 +476,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_close.scss" : {
       "aP" : 0,
@@ -453,7 +491,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_containers.scss" : {
       "aP" : 0,
@@ -468,7 +506,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_dropdown.scss" : {
       "aP" : 0,
@@ -483,7 +521,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_forms.scss" : {
       "aP" : 0,
@@ -498,7 +536,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_functions.scss" : {
       "aP" : 0,
@@ -513,7 +551,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_grid.scss" : {
       "aP" : 0,
@@ -528,7 +566,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_helpers.scss" : {
       "aP" : 0,
@@ -543,7 +581,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_images.scss" : {
       "aP" : 0,
@@ -558,7 +596,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_list-group.scss" : {
       "aP" : 0,
@@ -573,7 +611,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_mixins.scss" : {
       "aP" : 0,
@@ -588,7 +626,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_modal.scss" : {
       "aP" : 0,
@@ -603,7 +641,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_nav.scss" : {
       "aP" : 0,
@@ -618,7 +656,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_navbar.scss" : {
       "aP" : 0,
@@ -633,7 +671,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_offcanvas.scss" : {
       "aP" : 0,
@@ -648,7 +686,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_pagination.scss" : {
       "aP" : 0,
@@ -663,7 +701,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_placeholders.scss" : {
       "aP" : 0,
@@ -678,7 +716,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_popover.scss" : {
       "aP" : 0,
@@ -693,7 +731,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_progress.scss" : {
       "aP" : 0,
@@ -708,7 +746,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_reboot.scss" : {
       "aP" : 0,
@@ -723,7 +761,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_root.scss" : {
       "aP" : 0,
@@ -738,7 +776,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_spinners.scss" : {
       "aP" : 0,
@@ -753,7 +791,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_tables.scss" : {
       "aP" : 0,
@@ -768,7 +806,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_toasts.scss" : {
       "aP" : 0,
@@ -783,7 +821,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_tooltip.scss" : {
       "aP" : 0,
@@ -798,7 +836,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_transitions.scss" : {
       "aP" : 0,
@@ -813,7 +851,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_type.scss" : {
       "aP" : 0,
@@ -828,7 +866,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_utilities.scss" : {
       "aP" : 0,
@@ -843,7 +881,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/_variables.scss" : {
       "aP" : 0,
@@ -858,7 +896,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/bootstrap-grid.scss" : {
       "aP" : 0,
@@ -873,7 +911,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/bootstrap-reboot.scss" : {
       "aP" : 0,
@@ -888,7 +926,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/bootstrap-utilities.scss" : {
       "aP" : 0,
@@ -903,7 +941,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/bootstrap.scss" : {
       "aP" : 0,
@@ -918,7 +956,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/forms\/_floating-labels.scss" : {
       "aP" : 0,
@@ -933,7 +971,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/forms\/_form-check.scss" : {
       "aP" : 0,
@@ -948,7 +986,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/forms\/_form-control.scss" : {
       "aP" : 0,
@@ -963,7 +1001,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/forms\/_form-range.scss" : {
       "aP" : 0,
@@ -978,7 +1016,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/forms\/_form-select.scss" : {
       "aP" : 0,
@@ -993,7 +1031,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/forms\/_form-text.scss" : {
       "aP" : 0,
@@ -1008,7 +1046,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/forms\/_input-group.scss" : {
       "aP" : 0,
@@ -1023,7 +1061,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/forms\/_labels.scss" : {
       "aP" : 0,
@@ -1038,7 +1076,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/forms\/_validation.scss" : {
       "aP" : 0,
@@ -1053,7 +1091,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/helpers\/_clearfix.scss" : {
       "aP" : 0,
@@ -1068,7 +1106,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/helpers\/_colored-links.scss" : {
       "aP" : 0,
@@ -1083,7 +1121,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/helpers\/_position.scss" : {
       "aP" : 0,
@@ -1098,7 +1136,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/helpers\/_ratio.scss" : {
       "aP" : 0,
@@ -1113,7 +1151,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/helpers\/_stacks.scss" : {
       "aP" : 0,
@@ -1128,7 +1166,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/helpers\/_stretched-link.scss" : {
       "aP" : 0,
@@ -1143,7 +1181,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/helpers\/_text-truncation.scss" : {
       "aP" : 0,
@@ -1158,7 +1196,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/helpers\/_visually-hidden.scss" : {
       "aP" : 0,
@@ -1173,7 +1211,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/helpers\/_vr.scss" : {
       "aP" : 0,
@@ -1188,7 +1226,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_alert.scss" : {
       "aP" : 0,
@@ -1203,7 +1241,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_backdrop.scss" : {
       "aP" : 0,
@@ -1218,7 +1256,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_border-radius.scss" : {
       "aP" : 0,
@@ -1233,7 +1271,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_box-shadow.scss" : {
       "aP" : 0,
@@ -1248,7 +1286,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_breakpoints.scss" : {
       "aP" : 0,
@@ -1263,7 +1301,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_buttons.scss" : {
       "aP" : 0,
@@ -1278,7 +1316,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_caret.scss" : {
       "aP" : 0,
@@ -1293,7 +1331,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_clearfix.scss" : {
       "aP" : 0,
@@ -1308,7 +1346,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_color-scheme.scss" : {
       "aP" : 0,
@@ -1323,7 +1361,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_container.scss" : {
       "aP" : 0,
@@ -1338,7 +1376,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_deprecate.scss" : {
       "aP" : 0,
@@ -1353,7 +1391,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_forms.scss" : {
       "aP" : 0,
@@ -1368,7 +1406,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_gradients.scss" : {
       "aP" : 0,
@@ -1383,7 +1421,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_grid.scss" : {
       "aP" : 0,
@@ -1398,7 +1436,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_image.scss" : {
       "aP" : 0,
@@ -1413,7 +1451,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_list-group.scss" : {
       "aP" : 0,
@@ -1428,7 +1466,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_lists.scss" : {
       "aP" : 0,
@@ -1443,7 +1481,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_pagination.scss" : {
       "aP" : 0,
@@ -1458,7 +1496,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_reset-text.scss" : {
       "aP" : 0,
@@ -1473,7 +1511,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_resize.scss" : {
       "aP" : 0,
@@ -1488,7 +1526,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_table-variants.scss" : {
       "aP" : 0,
@@ -1503,7 +1541,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_text-truncate.scss" : {
       "aP" : 0,
@@ -1518,7 +1556,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_transition.scss" : {
       "aP" : 0,
@@ -1533,7 +1571,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_utilities.scss" : {
       "aP" : 0,
@@ -1548,7 +1586,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/mixins\/_visually-hidden.scss" : {
       "aP" : 0,
@@ -1563,7 +1601,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/utilities\/_api.scss" : {
       "aP" : 0,
@@ -1578,7 +1616,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/bootstrap\/vendor\/_rfs.scss" : {
       "aP" : 0,
@@ -1593,7 +1631,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/_site\/styles\/style.css" : {
       "aP" : 1,
@@ -1628,7 +1666,7 @@
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
-      "sct" : 0
+      "sct" : 1
     },
     "\/.gitignore" : {
       "cB" : 0,
@@ -1990,6 +2028,22 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/product-design\/budget-app\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/budget-app\/index.html",
+      "oF" : 0
+    },
+    "\/product-design\/budget-app\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/budget-app\/index.html",
+      "oF" : 0
+    },
     "\/product-design\/design-system\/images\/feature.png" : {
       "ft" : 32768,
       "iS" : 737300,
@@ -2133,6 +2187,14 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/product-design\/design-system\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/design-system\/index.html",
+      "oF" : 0
+    },
     "\/product-design\/digital-drivers-license\/images\/design-file-preview.jpg" : {
       "ft" : 16384,
       "iS" : 403003,
@@ -2210,6 +2272,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/product-design\/digital-drivers-license\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/digital-drivers-license\/index.html",
+      "oF" : 0
     },
     "\/product-design\/event-guide-app\/images\/feature.png" : {
       "ft" : 32768,
@@ -2367,6 +2437,14 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/product-design\/event-guide-app\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/event-guide-app\/index.html",
+      "oF" : 0
+    },
     "\/product-design\/food-truck-site\/images\/feature.png" : {
       "ft" : 32768,
       "iS" : 858344,
@@ -2509,6 +2587,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/product-design\/food-truck-site\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/food-truck-site\/index.html",
+      "oF" : 0
     },
     "\/product-design\/karaoke-app\/images\/adobe-creative-jam-awards.jpg" : {
       "ft" : 16384,
@@ -2692,6 +2778,14 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/product-design\/karaoke-app\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/karaoke-app\/index.html",
+      "oF" : 0
+    },
     "\/product-design\/medical-diagnosis-app\/images\/feature.png" : {
       "ft" : 32768,
       "iS" : 789786,
@@ -2834,6 +2928,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/product-design\/medical-diagnosis-app\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/medical-diagnosis-app\/index.html",
+      "oF" : 0
     },
     "\/product-design\/sketch-note-app\/images\/feature.png" : {
       "ft" : 32768,
@@ -2991,6 +3093,14 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/product-design\/sketch-note-app\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/sketch-note-app\/index.html",
+      "oF" : 0
+    },
     "\/product-design\/sports-marketing-app\/images\/apps-sites-baseball-recruiting-app-design-isral-duke.jpg" : {
       "ft" : 16384,
       "iS" : 868738,
@@ -3029,6 +3139,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/product-design\/sports-marketing-app\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/sports-marketing-app\/index.html",
+      "oF" : 0
     },
     "\/product-design\/step-counter-app\/images\/feature.png" : {
       "ft" : 32768,
@@ -3172,6 +3290,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/product-design\/step-counter-app\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/step-counter-app\/index.html",
+      "oF" : 0
     }
   },
   "hooks" : [
@@ -3701,6 +3827,10 @@
         "active" : 0,
         "optionString" : "'always', {exceptAfterSingleLine: false}"
       },
+      "logical-assignment-operators" : {
+        "active" : 0,
+        "optionString" : "'always',  {'enforceForIfStatements': false}"
+      },
       "max-classes-per-file" : {
         "active" : 0,
         "optionString" : "{'ignoreExpressions': false, 'max': 1}"
@@ -3861,6 +3991,9 @@
       "no-empty-pattern" : {
         "active" : 1
       },
+      "no-empty-static-block" : {
+        "active" : 0
+      },
       "no-eq-null" : {
         "active" : 0
       },
@@ -3999,6 +4132,9 @@
         "active" : 0
       },
       "no-new-func" : {
+        "active" : 0
+      },
+      "no-new-native-nonconstructor" : {
         "active" : 0
       },
       "no-new-object" : {
@@ -4623,7 +4759,7 @@
       "autoOutputPathReplace1" : "sass",
       "autoOutputPathReplace2" : "css",
       "autoOutputPathStyle" : 0,
-      "compilerType" : 0,
+      "compilerType" : 1,
       "cssoStyle" : 0,
       "decimalPrecision" : 10,
       "emitCharset" : 1,
@@ -4815,7 +4951,7 @@
       },
       "comments" : {
         "active" : 0,
-        "flagValue" : -1
+        "flagValue" : 1
       },
       "comparisons" : {
         "active" : 1,
