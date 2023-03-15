@@ -33,6 +33,22 @@
       "oAP" : "\/_includes\/_footer.html",
       "oF" : 0
     },
+    "\/_includes\/_page-hero.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/_includes\/_page-hero.html",
+      "oF" : 0
+    },
+    "\/_includes\/_project-card.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/_includes\/_project-card.html",
+      "oF" : 0
+    },
     "\/_includes\/_project-conclusion.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -119,6 +135,14 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/_includes\/_skills-block.html",
+      "oF" : 0
+    },
+    "\/_includes\/_talk-info.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/_includes\/_talk-info.html",
       "oF" : 0
     },
     "\/_includes\/svg\/icon-code.svg" : {
@@ -282,6 +306,71 @@
       "oA" : 0,
       "oAP" : "\/_site\/favicons\/site.webmanifest",
       "oF" : 0
+    },
+    "\/_site\/images\/home\/feature-sm.jpg" : {
+      "ft" : 16384,
+      "iS" : 113936,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_site\/images\/home\/feature-sm.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/_site\/images\/home\/feature.jpg" : {
+      "ft" : 16384,
+      "iS" : 131965,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_site\/images\/home\/feature.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/_site\/images\/isral-duke-logo-mark.png" : {
+      "ft" : 32768,
+      "iS" : 24381,
+      "oA" : 0,
+      "oAP" : "\/_site\/images\/isral-duke-logo-mark.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 90,
+      "rq" : 75
+    },
+    "\/_site\/images\/talks\/feature-sm.jpg" : {
+      "ft" : 16384,
+      "iS" : 279108,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_site\/images\/talks\/feature-sm.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/_site\/images\/talks\/feature.jpg" : {
+      "ft" : 16384,
+      "iS" : 2224252,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/_site\/images\/talks\/feature.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
     },
     "\/_site\/js\/bootstrap.bundle.min.js" : {
       "bF" : 0,
@@ -2187,6 +2276,14 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/product-design\/design-system\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/design-system\/index.html",
+      "oF" : 0
+    },
     "\/product-design\/design-system\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -2272,6 +2369,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/product-design\/digital-drivers-license\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/digital-drivers-license\/index.html",
+      "oF" : 0
     },
     "\/product-design\/digital-drivers-license\/index.kit" : {
       "cB" : 0,
@@ -2437,6 +2542,14 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/product-design\/event-guide-app\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/event-guide-app\/index.html",
+      "oF" : 0
+    },
     "\/product-design\/event-guide-app\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -2588,12 +2701,36 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/product-design\/food-truck-site\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/food-truck-site\/index.html",
+      "oF" : 0
+    },
     "\/product-design\/food-truck-site\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/product-design\/food-truck-site\/index.html",
+      "oF" : 0
+    },
+    "\/product-design\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/index.html",
+      "oF" : 0
+    },
+    "\/product-design\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/index.html",
       "oF" : 0
     },
     "\/product-design\/karaoke-app\/images\/adobe-creative-jam-awards.jpg" : {
@@ -2778,6 +2915,14 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/product-design\/karaoke-app\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/karaoke-app\/index.html",
+      "oF" : 0
+    },
     "\/product-design\/karaoke-app\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -2928,6 +3073,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/product-design\/medical-diagnosis-app\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/medical-diagnosis-app\/index.html",
+      "oF" : 0
     },
     "\/product-design\/medical-diagnosis-app\/index.kit" : {
       "cB" : 0,
@@ -3093,6 +3246,14 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/product-design\/sketch-note-app\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/sketch-note-app\/index.html",
+      "oF" : 0
+    },
     "\/product-design\/sketch-note-app\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -3139,6 +3300,14 @@
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
+    },
+    "\/product-design\/sports-marketing-app\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/sports-marketing-app\/index.html",
+      "oF" : 0
     },
     "\/product-design\/sports-marketing-app\/index.kit" : {
       "cB" : 0,
@@ -3291,12 +3460,36 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/product-design\/step-counter-app\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/product-design\/step-counter-app\/index.html",
+      "oF" : 0
+    },
     "\/product-design\/step-counter-app\/index.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/product-design\/step-counter-app\/index.html",
+      "oF" : 0
+    },
+    "\/talks\/index.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/talks\/index.html",
+      "oF" : 0
+    },
+    "\/talks\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/talks\/index.html",
       "oF" : 0
     }
   },
