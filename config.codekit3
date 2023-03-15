@@ -3476,6 +3476,14 @@
       "oAP" : "\/product-design\/step-counter-app\/index.html",
       "oF" : 0
     },
+    "\/resume\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/resume\/index.html",
+      "oF" : 0
+    },
     "\/talks\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -3490,6 +3498,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/talks\/index.html",
+      "oF" : 0
+    },
+    "\/visual-design\/index.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/visual-design\/index.html",
       "oF" : 0
     }
   },
