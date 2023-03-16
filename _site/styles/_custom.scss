@@ -159,7 +159,7 @@ aside {
   .list-group-item {
     border: none;
     &:not(:last-of-type) {
-      border-bottom: 1px solid fade-out($white, .9);
+      border-bottom: 1px solid fade-out($white, .75);
     }
   }
 } 

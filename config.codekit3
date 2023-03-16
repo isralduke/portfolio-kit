@@ -148,7 +148,7 @@
     "\/_includes\/svg\/icon-code.svg" : {
       "ft" : 2097152,
       "miP" : 0,
-      "oA" : 1,
+      "oA" : 2,
       "oAP" : "\/_includes\/svg\/icon-code.svg",
       "oF" : 0,
       "opt" : 0,
@@ -158,7 +158,7 @@
     "\/_includes\/svg\/icon-design.svg" : {
       "ft" : 2097152,
       "miP" : 0,
-      "oA" : 1,
+      "oA" : 2,
       "oAP" : "\/_includes\/svg\/icon-design.svg",
       "oF" : 0,
       "opt" : 0,
@@ -168,7 +168,7 @@
     "\/_includes\/svg\/icon-ux.svg" : {
       "ft" : 2097152,
       "miP" : 0,
-      "oA" : 1,
+      "oA" : 2,
       "oAP" : "\/_includes\/svg\/icon-ux.svg",
       "oF" : 0,
       "opt" : 0,
@@ -3539,6 +3539,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/product-design\/step-counter-app\/index.html",
+      "oF" : 0
+    },
+    "\/resume\/_content.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/resume\/_content.html",
       "oF" : 0
     },
     "\/resume\/_content.md" : {
